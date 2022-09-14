@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSoWeu9AE3nmJ91kjPB+Laz5JGPz+62TWoK/5vUJooM344Ffg9/yQ3ZNjraX/R8q2pScxcXgzrY51PgOZNPqkg==",
+  "success": true,
+  "projectFilePath": "/home/blackgaze/Documents/dotnet/IntsAndFloats/IntsAndFloats.csproj",
+  "expectedPackageFiles": [
+    "/home/blackgaze/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

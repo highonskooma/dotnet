@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pIR0azfpWAqBFLrEfT35TvVyjbsRH5oUXNi16S/mOKKe82Z/FwpffH6Ig0lzdV69urxLQokGHNAkgbyxrgaYKw==",
+  "success": true,
+  "projectFilePath": "/home/blackgaze/Documents/dotnet/classes/classes.csproj",
+  "expectedPackageFiles": [
+    "/home/blackgaze/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

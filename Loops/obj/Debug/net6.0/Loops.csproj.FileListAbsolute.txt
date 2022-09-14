@@ -1,0 +1,15 @@
+/home/blackgaze/Documents/dotnet/Loops/bin/Debug/net6.0/Loops
+/home/blackgaze/Documents/dotnet/Loops/bin/Debug/net6.0/Loops.deps.json
+/home/blackgaze/Documents/dotnet/Loops/bin/Debug/net6.0/Loops.runtimeconfig.json
+/home/blackgaze/Documents/dotnet/Loops/bin/Debug/net6.0/Loops.dll
+/home/blackgaze/Documents/dotnet/Loops/bin/Debug/net6.0/ref/Loops.dll
+/home/blackgaze/Documents/dotnet/Loops/bin/Debug/net6.0/Loops.pdb
+/home/blackgaze/Documents/dotnet/Loops/obj/Debug/net6.0/Loops.csproj.AssemblyReference.cache
+/home/blackgaze/Documents/dotnet/Loops/obj/Debug/net6.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/blackgaze/Documents/dotnet/Loops/obj/Debug/net6.0/Loops.AssemblyInfoInputs.cache
+/home/blackgaze/Documents/dotnet/Loops/obj/Debug/net6.0/Loops.AssemblyInfo.cs
+/home/blackgaze/Documents/dotnet/Loops/obj/Debug/net6.0/Loops.csproj.CoreCompileInputs.cache
+/home/blackgaze/Documents/dotnet/Loops/obj/Debug/net6.0/Loops.dll
+/home/blackgaze/Documents/dotnet/Loops/obj/Debug/net6.0/ref/Loops.dll
+/home/blackgaze/Documents/dotnet/Loops/obj/Debug/net6.0/Loops.pdb
+/home/blackgaze/Documents/dotnet/Loops/obj/Debug/net6.0/Loops.genruntimeconfig.cache

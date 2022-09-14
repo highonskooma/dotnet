@@ -1,0 +1,15 @@
+/home/blackgaze/Documents/dotnet/IntsAndFloats/bin/Debug/net6.0/IntsAndFloats
+/home/blackgaze/Documents/dotnet/IntsAndFloats/bin/Debug/net6.0/IntsAndFloats.deps.json
+/home/blackgaze/Documents/dotnet/IntsAndFloats/bin/Debug/net6.0/IntsAndFloats.runtimeconfig.json
+/home/blackgaze/Documents/dotnet/IntsAndFloats/bin/Debug/net6.0/IntsAndFloats.dll
+/home/blackgaze/Documents/dotnet/IntsAndFloats/bin/Debug/net6.0/ref/IntsAndFloats.dll
+/home/blackgaze/Documents/dotnet/IntsAndFloats/bin/Debug/net6.0/IntsAndFloats.pdb
+/home/blackgaze/Documents/dotnet/IntsAndFloats/obj/Debug/net6.0/IntsAndFloats.csproj.AssemblyReference.cache
+/home/blackgaze/Documents/dotnet/IntsAndFloats/obj/Debug/net6.0/IntsAndFloats.GeneratedMSBuildEditorConfig.editorconfig
+/home/blackgaze/Documents/dotnet/IntsAndFloats/obj/Debug/net6.0/IntsAndFloats.AssemblyInfoInputs.cache
+/home/blackgaze/Documents/dotnet/IntsAndFloats/obj/Debug/net6.0/IntsAndFloats.AssemblyInfo.cs
+/home/blackgaze/Documents/dotnet/IntsAndFloats/obj/Debug/net6.0/IntsAndFloats.csproj.CoreCompileInputs.cache
+/home/blackgaze/Documents/dotnet/IntsAndFloats/obj/Debug/net6.0/IntsAndFloats.dll
+/home/blackgaze/Documents/dotnet/IntsAndFloats/obj/Debug/net6.0/ref/IntsAndFloats.dll
+/home/blackgaze/Documents/dotnet/IntsAndFloats/obj/Debug/net6.0/IntsAndFloats.pdb
+/home/blackgaze/Documents/dotnet/IntsAndFloats/obj/Debug/net6.0/IntsAndFloats.genruntimeconfig.cache

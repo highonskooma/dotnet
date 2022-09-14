@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r/5qjF/jSfYCAKkEz7GcZX/cjSQGvmxD5iJLF9lUYV1fA97G+l9hIfM8gCBe486+pWmHdS+/P8EXPZnXBnZ15A==",
+  "success": true,
+  "projectFilePath": "/home/blackgaze/Documents/dotnet/Loops/Loops.csproj",
+  "expectedPackageFiles": [
+    "/home/blackgaze/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
