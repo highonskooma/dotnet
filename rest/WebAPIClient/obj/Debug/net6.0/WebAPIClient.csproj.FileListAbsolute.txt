@@ -1,0 +1,15 @@
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/bin/Debug/net6.0/WebAPIClient
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/bin/Debug/net6.0/WebAPIClient.deps.json
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/bin/Debug/net6.0/WebAPIClient.runtimeconfig.json
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/bin/Debug/net6.0/WebAPIClient.dll
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/bin/Debug/net6.0/ref/WebAPIClient.dll
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/bin/Debug/net6.0/WebAPIClient.pdb
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.AssemblyReference.cache
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/obj/Debug/net6.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfoInputs.cache
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfo.cs
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/obj/Debug/net6.0/WebAPIClient.dll
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/obj/Debug/net6.0/ref/WebAPIClient.dll
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/obj/Debug/net6.0/WebAPIClient.pdb
+/home/blackgaze/Documents/dotnet/rest/WebAPIClient/obj/Debug/net6.0/WebAPIClient.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5b/R4O8P1J0len5TRy1UGerCaX9CaQxYcIVc4Te5XxpH44rSNGsS9cjN9bRsLQtspAyI0+h6zmvfxVBaAnKKg==",
+  "success": true,
+  "projectFilePath": "/home/blackgaze/Documents/dotnet/rest/WebAPIClient/WebAPIClient.csproj",
+  "expectedPackageFiles": [
+    "/home/blackgaze/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
